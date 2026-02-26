@@ -1,2 +1,2 @@
-email :
-gitID :
+email : ppoobb9447@gmail.com
+gitID : Xnarin
